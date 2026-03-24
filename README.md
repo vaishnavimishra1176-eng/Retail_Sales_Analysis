@@ -45,9 +45,9 @@ We used **Pivot Tables** and aggregations to analyze:
 ### 4. Regional Performance
 - **Top 5 states contributed the most to sales**, highlighting key regional markets.  
 - These states should be the focus for future expansion and targeted promotions.
-  ### 5. Sales Channels**
--**35 sales were made through Amazon**, showcasing its importance as a key sales channel.
-- This suggests the need to enhance digital marketing efforts on e-commerce platforms.
+  ### 5. Sales Channels
+- **35% of sales were made through Amazon**, showcasing its importance as a key sales channel.  
+- This suggests the need to enhance digital marketing efforts on e-commerce platforms.  
 # Conclusion
 This analysis provides a comprehensive view of store sales, helping stakeholders make data-driven decisions. By understanding seasonal sales trends, customer preferences, and regional market performance, businesses can improve inventory management, customer targeting, and overall sales strategies.
 
