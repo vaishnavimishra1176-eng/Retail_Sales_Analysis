@@ -31,15 +31,19 @@ We used **Pivot Tables** and aggregations to analyze:
 
   # Key Insights from the Report
 - **1 Monthly Sales Trends**
-- **March recorded the highest sales**, indicating seasonal demand fluctuations.
-- Understanding these trends helps optimize inventory and marketing strategies.
-- **2 Customer Demographics**
-**Women made up the majority of purchases**, showing they are the dominant customer segment.
-**Most sales were from adult women**, emphasizing a key target audience for marketing campaigns.
-- **3 Delivery Insights**
-**Most of the items were delivered successfully**, indicating an efficient logistics process.
--**4 Regional Performance**
-- Top 5 states contributed the most to sales, highlighting key regional markets.
+### 1. Monthly Sales Trends
+- **March recorded the highest sales**, indicating seasonal demand fluctuations.  
+- Understanding these trends helps optimize inventory and marketing strategies.  
+
+### 2. Customer Demographics
+- **Women made up the majority of purchases**, showing they are the dominant customer segment.  
+- **Most sales were from adult women**, emphasizing a key target audience for marketing.  
+
+### 3. Delivery Insights
+- **Most of the items were delivered successfully**, indicating an efficient logistics process.  
+
+### 4. Regional Performance
+- **Top 5 states contributed the most to sales**, highlighting key regional markets.  
 - These states should be the focus for future expansion and targeted promotions.
 -**5. Sales Channels**
 -**35 sales were made through Amazon**, showcasing its importance as a key sales channel.
