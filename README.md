@@ -45,7 +45,7 @@ We used **Pivot Tables** and aggregations to analyze:
 ### 4. Regional Performance
 - **Top 5 states contributed the most to sales**, highlighting key regional markets.  
 - These states should be the focus for future expansion and targeted promotions.
-  ### 5. Sales Channels
+### 5. Sales Channels
 - **35% of sales were made through Amazon**, showcasing its importance as a key sales channel.  
 - This suggests the need to enhance digital marketing efforts on e-commerce platforms.  
 # Conclusion
